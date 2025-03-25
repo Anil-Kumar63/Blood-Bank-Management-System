@@ -23,8 +23,8 @@ The Blood Bank Management System is a web application designed to efficiently ma
 
 
 ### **Donor Credentials**  
-- **Username**: satish@gmail.com  
-- **Password**: Satish@123  
+- **Username**: create ur self  
+- **Password**: ********  
   - Or you can **register a new user** through the registration page.
 ![1](https://github.com/user-attachments/assets/23a480a3-9f8a-4adc-8cf2-0b9b05c14ded)
 ![2](https://github.com/user-attachments/assets/5b9f9a39-df63-40c7-9bda-8cb167e3eda5)
